@@ -1,4 +1,4 @@
-# Code Converter
+# Temperature Converter
 
 ## Here's Example Output
 ![Alt Image](tc1.jpg)
